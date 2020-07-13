@@ -1,6 +1,8 @@
 #header-nav {
     background-color: #00A878;
     padding: 0;
+    height: 56px;
+    z-index: 9;
 }
 
 #header-nav > a {
