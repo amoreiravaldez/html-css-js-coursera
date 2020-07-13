@@ -1,0 +1,48 @@
+#header-nav {
+    background-color: #00A878;
+    padding: 0;
+}
+
+#header-nav > a {
+    padding-left: 16px;
+}
+
+#menu-button {
+    margin-right: 16px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+#navbar-brand {
+    color: white;
+}
+
+
+#item-1 {
+    color: #FFFBFF;
+    padding: 10px;
+} 
+
+#our-menu {
+    margin-top: 10px;
+}
+
+#line-breaks {
+    border-top: 1px solid #FFFBFF;
+    margin: 0px;
+}
+
+#navbarNav {
+    background-color: #00CC92;
+    width: 100%;
+}
+
+div > section { 
+    background-color: #d1d1d1;
+    padding-bottom: 30px;
+}
+
+div > section > h3 {
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
